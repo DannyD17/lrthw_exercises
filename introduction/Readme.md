@@ -29,3 +29,4 @@ it helps train your brain to write code.
 > Difficulties and challenges will be encountered, it is important to be persistent and practice the code in order to 
 overcome these obstacles.  After time (while sticking with it and practicing), you will eventually "get it" when it comes
 to those difficult topics.
+
