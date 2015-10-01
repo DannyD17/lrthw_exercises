@@ -12,8 +12,8 @@
 Provide a link in your Readme.md that links to the documentation for the following classes
 as well as two other relative ruby documentation links.
 
-[Array] (http://ruby-doc.org/core-2.2.0/Array.html)  
-[Hash] (http://ruby-doc.org/core-2.2.2/Hash.html)  
+[Array] (http://ruby-doc.org/core-2.2.3/Array.html)  
+[Hash] (http://ruby-doc.org/core-2.2.3/Hash.html)  
 [Chronic (Rubygem)] (http://chronic.rubyforge.org)  
 [Class] (http://ruby-doc.org/core-2.2.3/Class.html)  
 [Random] (http://ruby-doc.org/core-2.2.3/Random.html)
