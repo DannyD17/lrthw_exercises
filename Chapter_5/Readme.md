@@ -6,7 +6,7 @@
     
     2 files inspected, 1 offense detected
 
-I addressed this by braking up the line of code by escaping the newline character.
+I addressed this by breaking up the line of code by escaping the newline character.
 
     puts "If I add #{my_age}, #{my_height}, and #{my_weight} I get\
      #{my_age + my_height + my_weight}."
