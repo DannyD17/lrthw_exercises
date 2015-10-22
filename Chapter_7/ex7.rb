@@ -1,7 +1,9 @@
 # Prints a string
 puts 'Mary had a little lamb.'
 # prints a string with another string interpolated in it
+# rubocop:disable LiteralInInterpolation
 puts "It's fleece was white as #{'snow'}."
+# rubocop:enable LiteralInInterpolation
 # prints a string
 puts 'And everywhere that Mary went.'
 # prints the string 10 times
